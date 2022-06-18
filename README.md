@@ -5,7 +5,7 @@
 ## Hi there! 👋
 I'm Ramazan, a 22 years old statistician from Turkey.
 
-- 🧭 I’m currently working on intelligent algorithms.,
+- 🧭 I’m currently working on machine learning.,
 
 - 🌱 I’m currently learning next level python.
 
