@@ -89,6 +89,12 @@ hobbies = [
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
 </a>
 </p>
+
+---
+
+<p align="center">
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+</p>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
