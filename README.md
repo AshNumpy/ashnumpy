@@ -9,7 +9,7 @@
 
 ---
 
-<h2> 👻 &nbsp; About Me align</h2>
+<h2> 👻 &nbsp; About Me</h2>
 
 ```python
 name = "Ramazan Erduran"
