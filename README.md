@@ -59,19 +59,22 @@ hobbies = [
   
 <h2> 🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="python" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="python" height="45" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="python" height="45" />
-<img src="https://www.r-project.org/Rlogo.png" alt="python" width="45" height="45" />
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="python" height="45" />
-<img src="https://www.knime.com/themes/custom/bootstrap_knime/logo.svg" alt="python" height="45" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="python" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" height="45"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="45" />
+<img src="https://www.lambdatest.com/resources/images/header/Playwright_logo.svg" alt="playwright" height="45"> 
+<img src="https://www.r-project.org/Rlogo.png" alt="r" height="45" />
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="pyspark" height="45" />
+<img src="https://www.knime.com/themes/custom/bootstrap_knime/logo.svg" alt="knime" height="45" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"> 
 
+  
 ---
 
 <h1 align="center">
