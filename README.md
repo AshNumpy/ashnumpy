@@ -17,7 +17,7 @@ located_in =  "Ankara"
 current_field = "Data & Analytics"
 
 education = {
-  "University":"Hacettepe Üniversity",
+  "University":"Hacettepe University",
   "Department": "Statistics",
   "GPA": 3.05
 }
