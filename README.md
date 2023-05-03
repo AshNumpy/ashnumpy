@@ -105,31 +105,31 @@ hobbies = [
     </a>
     <br>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intermediate%20r.png">
       Intermediate R
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intro%20to%20r.png">
       Introduction to R
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intro%20tidyverse.png">
       Introduction to Tidyverse
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/manipulation%20dplyr.png">
       Data Manipulation with Dplyr
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/joining%20dplyr.png">
       Joinin Data with Dplyr
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intermediate%20ggplot2.png">
       Intermediate Data Visualization with ggplot2
     </a>
     <br>
-    - <a href="../R - Datacamp/2- Intermadiate R.pdf">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intro%20ggplot1.png">
       Introduction to Data Visualization with ggplot2
     </a>
     
