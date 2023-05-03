@@ -97,7 +97,7 @@ hobbies = [
 </p>
 
 <details align="center">
-  <summary><b>MY ALL CERTIFICATES</b></summary>
+  <summary><b>ALL MY CERTIFICATES</b></summary>
   
   <h3>DataCamp</h3>
    - <a href="https://www.datacamp.com/statement-of-accomplishment/track/eb7026e17d8e342625b5c4d58013614d16dbf231">
