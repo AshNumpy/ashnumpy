@@ -97,11 +97,7 @@ hobbies = [
 </p>
 
 <details align="center">
-<<<<<<< HEAD
-  <summary><b>MY ALL CERTIFICATIONS</b></summary>
-=======
   <summary><b>MY ALL CERTIFICATES</b></summary>
->>>>>>> f335bebf0580db044f4d739bcbd852cea7d0f685
   
   <h3>DataCamp</h3>
    - <a href="https://www.datacamp.com/statement-of-accomplishment/track/eb7026e17d8e342625b5c4d58013614d16dbf231">
@@ -162,15 +158,15 @@ hobbies = [
   
 
   <h3>KAGGLE</h3>
-   - <a href="../Python/Introduction to Machine Learning.png">
+   - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/Py/Intermediate%20Machine%20Learning.png">
       Intermediate Machine Learning
     </a>
     <br>
-    - <a href="../Python/Introduction to Machine Learning.png">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/Py/Introduction%20to%20Machine%20Learning.png">
       Introduction to Machine Learning
     </a>
     <br>
-    - <a href="../Python/Data Visualization.png">
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/Py/Data%20Visualization.png">
       Data Visualization with Python
     </a>
   
