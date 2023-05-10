@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif" height=400>
+  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif" height=350>
 </p>
 
 ---
