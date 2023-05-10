@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo-Opener_1.gif">
+  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif">
 </p>
 
 ---
