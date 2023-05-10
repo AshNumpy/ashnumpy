@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-
-<p align="center">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif">
+  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif" height=300>
 </p>
 
 ---
