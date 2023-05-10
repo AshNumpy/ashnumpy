@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <a href="https:www.linkedin.com/in/ramazan-erduran" target="_blank">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo-Opener_12.gif">
-  </a>
+  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo-Opener_1.gif">
 </p>
 
 ---
