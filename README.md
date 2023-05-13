@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv2.pdf" target="_blank">
   <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif" height=300>
+  </a>
 </p>
 
 ---
