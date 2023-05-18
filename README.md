@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv2.pdf" target="_blank">
+  <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf" target="_blank">
   <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo Opener_1.gif" height=300>
   </a>
 </p>
@@ -169,6 +169,10 @@ hobbies = [
     </a>
   
 </details>
+
+<p align="center">
+<a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf"> CV </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
