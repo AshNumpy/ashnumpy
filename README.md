@@ -134,9 +134,10 @@ hobbies = [
      - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0=">
       AKBANK Data Analysis Bootcamp
     </a>
+  <br>
    - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MTA4LCJjZXJ0LWlkIjoiMTE4MTE2In0=">
       AYGAZ Python Bootcamp
-    </a>
+    </a>  
     <br>
     - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=">
       Python for Machine Learning
