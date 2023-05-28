@@ -129,14 +129,11 @@ hobbies = [
     - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/R/intro%20ggplot1.png">
       Introduction to Data Visualization with ggplot2
     </a>
-  
-  <h3>Coderspace</h3>
-     - <a href="https://coderspace.io/sertifikalar/93b6d9b5-9e16-425f-a344-70326dc38077">
-      AGILE Development Day
-    </a>
-    <br>
 
   <h3>Global AI Hub</h3>
+     - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0=">
+      AKBANK Data Analysis Bootcamp
+    </a>
    - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MTA4LCJjZXJ0LWlkIjoiMTE4MTE2In0=">
       AYGAZ Python Bootcamp
     </a>
@@ -157,7 +154,12 @@ hobbies = [
     - <a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=L8dcnWaqYO">
       Machine Learning with Python
     </a>
-  
+ 
+  <h3>Coderspace</h3>
+     - <a href="https://coderspace.io/sertifikalar/93b6d9b5-9e16-425f-a344-70326dc38077">
+      AGILE Development Day
+    </a>
+    <br>
 
   <h3>KAGGLE</h3>
    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/Py/Intermediate%20Machine%20Learning.png">
