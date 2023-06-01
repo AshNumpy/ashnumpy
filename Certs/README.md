@@ -32,6 +32,10 @@
     </a>
 
   <h3>Global AI Hub</h3>
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
+      Digital Talent Summit
+    </a>
+    <br>
      - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0=">
       AKBANK Data Analysis Bootcamp
     </a>
@@ -60,10 +64,6 @@
   <h3>Coderspace</h3>
      - <a href="https://coderspace.io/sertifikalar/93b6d9b5-9e16-425f-a344-70326dc38077">
       AGILE Development Day
-    </a>
-    <br>
-    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
-      Digital Talent Summit
     </a>
     <br>
 
