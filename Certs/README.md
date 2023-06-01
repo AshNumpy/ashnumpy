@@ -62,6 +62,10 @@
       AGILE Development Day
     </a>
     <br>
+    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
+      Digital Talent Summit
+    </a>
+    <br>
 
   <h3>KAGGLE</h3>
    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/Py/Intermediate%20Machine%20Learning.png">
