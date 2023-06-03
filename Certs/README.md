@@ -32,6 +32,10 @@
     </a>
 
   <h3>Global AI Hub</h3>
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9">
+      Yapay Zekaya İlk Adım
+    </a>
+    <br>  
     - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
       Digital Talent Summit
     </a>
