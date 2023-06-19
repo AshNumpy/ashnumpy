@@ -87,9 +87,7 @@ hobbies = [
       <a href="https://www.kaggle.com/ramazanerduran/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
       <a href="https://stackoverflow.com/users/19245941/ramazan-e" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Kaggle"></a>
   <br>
-      <a href="https://instagram.com/rz_png?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-F50283?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://open.spotify.com/user/r_erduran42?si=1569da0b5f304493" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-    <a href="https://pin.it/2ji61vM" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
     <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Discord"></a>
   <a href="https://discord.gg/KODUNUZ/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
