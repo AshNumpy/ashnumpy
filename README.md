@@ -85,6 +85,7 @@ hobbies = [
     <a href="https://www.linkedin.com/in/ramazan-erduran/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://medium.com/@ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
       <a href="https://www.kaggle.com/ramazanerduran/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+    <a href="https://public.tableau.com/profile/ramazan.erduran1816" target="_blank"><img src="https://img.shields.io/badge/Tableau-Purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
       <a href="https://stackoverflow.com/users/19245941/ramazan-e" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Kaggle"></a>
   <br>
     <a href="https://open.spotify.com/user/r_erduran42?si=1569da0b5f304493" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
