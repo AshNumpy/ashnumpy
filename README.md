@@ -56,6 +56,7 @@ hobbies = [
   
 <h2> 🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
 
+![Tableau](https://img.shields.io/badge/Tableau-Purple?style=for-the-badge&logo=tableau&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=Visual%20Studio&logoColor=white&height=50)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&height=50)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=50)
