@@ -16,13 +16,14 @@ current_field = "Data & Analytics"
 education = {
   "University":"Hacettepe University",
   "Department": "Statistics",
-  "GPA": 3.05
+  "GPA": 3.12
 }
 
 fields_of_interests = [
   "Statistics",
   "Machine Learning",
   "Deep Learning",
+  "Neural Networks",
   "Data Science",
   "Data Visualization",
   "Insight Consulting"
@@ -33,12 +34,13 @@ technical_background = [
   "Intern - Data Science and Machine Learning"
 ]
   
-currently_learning = ["Spark", "Azure"]
+currently_learning = ["Spark", "Computer Vision"]
 
 goals_2023 = [
   """
   • Create 10 data project
   • Enter the cloud architecture
+  • Enter the computer vision
   • Improve big data skills
   """
 ]
