@@ -101,6 +101,9 @@ hobbies = [
   <summary><b>ALL MY CERTIFICATES</b></summary>
 
   <h3>Great Learning</h3>
+    - <a href="https://olympus1.mygreatlearning.com/course_certificate/WZPLAJVM">
+      Data Analysis using PySpark
+    </a>
    - <a href="https://olympus1.mygreatlearning.com/course_certificate/YWYPPOGM">
       Spark: PySpark
     </a>
