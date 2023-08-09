@@ -1,3 +1,8 @@
+  <h3>Miuul</h3>
+  - <a href="https://learning.miuul.com/certificates/tzad8pyifj">
+      Python Programming for Data Science
+    </a>
+  
   <h3>Great Learning</h3>
    - <a href="https://olympus1.mygreatlearning.com/course_certificate/WZPLAJVM">
       Data Analysis using PySpark
