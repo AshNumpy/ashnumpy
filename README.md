@@ -86,6 +86,10 @@ hobbies = [
 </h1>
 
 <p align="center">
+  <a href="https://ramazan-erduran.super.site" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Personal%20Website-%23156EAA?style=for-the-badge" alt="My Personal Website">
+</a>
+<br>
     <a href="https://www.linkedin.com/in/ramazan-erduran/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://medium.com/@ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
       <a href="https://www.kaggle.com/ramazanerduran/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
