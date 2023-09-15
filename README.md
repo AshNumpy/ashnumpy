@@ -22,14 +22,13 @@ education = {
 fields_of_interests = [
   "Statistics",
   "Machine Learning",
-  "Deep Learning",
   "Neural Networks",
-  "Data Science",
   "Data Visualization",
   "Insight Consulting"
   ]
 
 technical_background = [
+  "Full Time - Jr. Business Intelligence Consultant"
   "Full Time - Jr. Data Scientist",
   "Intern - Data Science and Machine Learning"
 ]
