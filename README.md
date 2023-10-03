@@ -99,6 +99,11 @@ hobbies = [
 <details align="center">
   <summary><b>ALL MY CERTIFICATES</b></summary>
 
+  <h3>BilgeAdam Akademi</h3>
+  - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Py/bilge_Adam_Data_Science.pdf">
+    Data Science (80 Hours)
+  </a>
+
   <h3>Miuul</h3>
   - <a href="https://learning.miuul.com/certificates/tzad8pyifj">
       Python Programming for Data Science
