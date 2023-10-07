@@ -2,6 +2,15 @@
   - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Py/bilge_Adam_Data_Science.pdf">
     Data Science (80 Hours)
   </a>
+
+  <h3>BI Technology | Qlik</h3>
+  - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Qlik/Certificate%20of%20Qlik%20Sense%20Developer%20RamazanErduran.pdf">
+    Data Modelling With Qlik Sense
+  </a>
+  <br>
+  - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Qlik/Certificate%20of%20Qlik%20Sense%20End%20User%20RamazanErduran.pdf">
+    Create Visualizations With Qlik Sense
+  </a>
   
   <h3>Miuul</h3>
   - <a href="https://learning.miuul.com/certificates/tzad8pyifj">
