@@ -60,15 +60,19 @@
     </a>
 
   <h3>Global AI Hub</h3>
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE1MjE5LCJjZXJ0LWlkIjoiMTE1Mzg4In0=">
+      Introduction to Deep Learning
+    </a>
+    <br>
   - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9">
       Yapay Zekaya İlk Adım
     </a>
     <br>  
-    - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
+  - <a href="https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Certs/digital_talent.jpeg">
       Digital Talent Summit
     </a>
     <br>
-     - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0=">
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE4MjQ0LCJjZXJ0LWlkIjoiMTE4MjQ4In0=">
       AKBANK Data Analysis Bootcamp
     </a>
   <br>
@@ -76,11 +80,11 @@
       AYGAZ Python Bootcamp
     </a>  
     <br>
-    - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=">
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=">
       Python for Machine Learning
     </a>
     <br>
-    - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTEwNTQ4LCJjZXJ0LWlkIjoiMTEwODkxIn0=">
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTEwNTQ4LCJjZXJ0LWlkIjoiMTEwODkxIn0=">
       Introduction to Python
     </a>
 
