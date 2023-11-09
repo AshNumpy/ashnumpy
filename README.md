@@ -162,6 +162,10 @@ hobbies = [
     </a>
 
   <h3>Global AI Hub</h3>
+  - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6MTE1MjE5LCJjZXJ0LWlkIjoiMTE1Mzg4In0=">
+      Introduction to Deep Learning
+    </a>
+    <br>
   - <a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxNTUzODksImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9">
       Yapay Zekaya İlk Adım
     </a>
