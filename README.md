@@ -10,7 +10,7 @@
 
 ```python
 name = "Ramazan Erduran"
-located_in =  "Ankara"
+located_in =  "Turkey"
 current_field = "Data & Analytics"
 
 education = {
@@ -33,16 +33,7 @@ technical_background = [
   "Intern - Data Science and Machine Learning"
 ]
   
-currently_learning = ["Spark", "Computer Vision"]
-
-goals_2023 = [
-  """
-  • Create 10 data project
-  • Enter the cloud architecture
-  • Enter the computer vision
-  • Improve big data skills
-  """
-]
+currently_learning = ["Qlik CLI", "Price Action"]
 
 hobbies = [
   "Movie",
@@ -76,6 +67,7 @@ hobbies = [
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&height=50)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&height=50)
 ![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&height=50)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white&height=50)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&height=50)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&height=50)
 
