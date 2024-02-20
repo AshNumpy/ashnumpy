@@ -45,11 +45,11 @@ goals_2023 = [
 ]
 
 hobbies = [
-  "Gaming",
   "Movie",
   "Theatre",
   "Guitar",
-  "Comedy"
+  "Comedy",
+  "Boxing"
   ]
 ```
   
