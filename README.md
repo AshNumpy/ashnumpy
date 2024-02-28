@@ -105,6 +105,10 @@ hobbies = [
   - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Qlik/Certificate%20of%20Qlik%20Sense%20End%20User%20RamazanErduran.pdf">
     Create Visualizations With Qlik Sense
   </a>
+  <br>
+  - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Qlik/Certificate%20of%20Qlik%20Sense%20Administration%20Ramazan%20Erduran.pdf">
+    System Administration with Qlik Sense
+  </a>
   
   <h3>Miuul</h3>
   - <a href="https://learning.miuul.com/certificates/tzad8pyifj">
