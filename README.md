@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf" target="_blank">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo%20Opener.gif" height=300>
+  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo%20Opener.gif" height=400>
   </a>
 </p>
 
