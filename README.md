@@ -28,8 +28,8 @@ fields_of_interests = [
   ]
 
 technical_background = [
-  "Full Time - Jr. Business Intelligence Consultant"
-  "Full Time - Jr. Data Scientist",
+  "Full Time - Business Intelligence Consultant"
+  "Full Time - Data Scientist",
   "Intern - Data Science and Machine Learning"
 ]
   
