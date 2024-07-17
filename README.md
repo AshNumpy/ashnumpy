@@ -220,6 +220,4 @@ hobbies = [
 <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf"> CV </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
