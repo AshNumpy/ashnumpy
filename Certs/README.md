@@ -1,3 +1,8 @@
+  <h3>Udemy</h3>
+  - <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c211be2d-898a-4e83-9a5b-6e4e7fb926c1.jpg">
+    Machine Learning A-Z
+  </a>
+  
   <h3>BilgeAdam Akademi</h3>
   - <a href="https://github.com/AshNumpy/ashnumpy/blob/main/Certs/Py/bilge_Adam_Data_Science.pdf">
     Data Science (80 Hours)
