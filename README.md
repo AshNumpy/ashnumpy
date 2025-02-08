@@ -222,7 +222,6 @@ hobbies = [
 </details>
 
 <p align="center">
-<a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf"> CV </a>
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
