@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/AshNumpy/ashnumpy/blob/main/ramazan_erduran_cv.pdf" target="_blank">
-  <img src= "https://raw.githubusercontent.com/AshNumpy/ashnumpy/main/Typo%20Opener.gif">
-  </a>
-</p>
-
----
-
 <h2> 👻 &nbsp; About Me</h2>
 
 ```python
@@ -21,8 +13,8 @@ education = {
 
 fields_of_interests = [
   "Statistics",
-  "Machine Learning",
-  "Neural Networks",
+  "Machine Learning & AI",
+  "Business Anlytics",
   "Data Visualization",
   "Insight Consulting"
   ]
@@ -33,7 +25,7 @@ technical_background = [
   "Intern - Data Science and Machine Learning"
 ]
   
-currently_learning = ["Qlik CLI", "Price Action"]
+currently_learning = ["System Design"]
 
 hobbies = [
   "Movie",
@@ -79,15 +71,13 @@ hobbies = [
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ramazan-erduran/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://medium.com/@ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-      <a href="https://www.kaggle.com/ramazanerduran/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-    <a href="https://public.tableau.com/profile/ramazan.erduran1816" target="_blank"><img src="https://img.shields.io/badge/Tableau-Purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
-      <a href="https://stackoverflow.com/users/19245941/ramazan-e" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Kaggle"></a>
-  <br>
-    <a href="https://open.spotify.com/user/r_erduran42?si=1569da0b5f304493" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-    <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Discord"></a>
-  <a href="https://discord.gg/ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://medium.com/@ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=ruff&logoColor=white" alt="Personal Website"></a>
+    <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Mail"></a>
 </p>
+
+<div align="center">
+  <img alt="AshNumpy's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNumpy&theme=dark&hide_border=true&background=0d1117" />
+</div>
 
 <details align="center">
   <summary><b>ALL MY CERTIFICATES</b></summary>
@@ -223,5 +213,3 @@ hobbies = [
 
 <p align="center">
 </p>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
