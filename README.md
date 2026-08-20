@@ -76,7 +76,7 @@ hobbies = [
 </p>
 
 <div align="center">
-  <img alt="AshNumpy's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNumpy&theme=dark&hide_border=true&background=0d1117" />
+  <img alt="AshNumpy's Github Streak" src="https://github.com/AshNumpy/ashnumpy/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
 
 <details align="center">
