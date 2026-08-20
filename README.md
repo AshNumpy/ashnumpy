@@ -71,8 +71,8 @@ hobbies = [
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ramazan-erduran/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://medium.com/@ashnumpy/" target="_blank"><img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=ruff&logoColor=white" alt="Personal Website"></a>
-    <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Mail"></a>
+    <a href="https://ramazanerduran.com" target="_blank"><img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=ruff&logoColor=white" alt="Personal Website"></a>
+    <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Mail"></a>
 </p>
 
 <div align="center">
