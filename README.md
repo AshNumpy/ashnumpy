@@ -75,10 +75,6 @@ hobbies = [
     <a href="mailto:ramazan.erduran@outlook.com.tr" target="_blank"><img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Mail"></a>
 </p>
 
-<div align="center">
-  <img alt="AshNumpy's Github Streak" src="https://github.com/AshNumpy/ashnumpy/blob/main/profile-3d-contrib/profile-night-green.svg" />
-</div>
-
 <details align="center">
   <summary><b>ALL MY CERTIFICATES</b></summary>
 
