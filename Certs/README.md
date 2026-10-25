@@ -1,3 +1,8 @@
+  <h3>Qlik</h3>
+  - <a href="https://www.credly.com/badges/b48e4f7b-6c0a-4a89-8029-07cb709e83fe/public_url">
+    Qlik Sense Business Analyst
+  </a>
+  
   <h3>Udemy</h3>
   - <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c211be2d-898a-4e83-9a5b-6e4e7fb926c1.jpg">
     Machine Learning A-Z
